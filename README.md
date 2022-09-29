@@ -42,5 +42,5 @@ SOFTWARE.
 3.https://www.makeareadme.com/
 4.https://www.geeksforgeeks.org/what-is-readme-md-file/
 5.https://snyk.io/learn/what-is-mit-license/
-6.https://www.udemy.com/course/50-projects-50-days/ taught by @bradtraversy
+6.https://www.udemy.com/course/50-projects-50-days/ taught by bradtraversy
 7.https://www.udemy.com/course/the-web-developer-bootcamp/ taught by Colt Steele
